@@ -12,7 +12,7 @@ const Developer = () => {
             description="오늘의 추천 개발자 유튜버입니다.">
 
             <section id="developerPage">
-                <h2>😪 추천 개발자를 소개합니다..</h2>
+                <h2>😪 추천 개발자를 소개합니다.</h2>
                 <div className='developer__inner'>
                     {developerText.map((developer, key)=>(
                         <div className='developer' key={key}>
