@@ -46,6 +46,7 @@ const Search = () => {
         description='유튜브 검색 결과입니다.'
     >
         <section id='searchPage' className={searchPageClass}>
+            <h2> <em>{searchID}</em> 검색 결과입니다.</h2>
             <div className="video__inner search">
                 <VideoSearch videos={videos}/>
             </div>
