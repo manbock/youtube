@@ -43,7 +43,7 @@ const Search = () => {
 
   return (
     <Main
-        title= '유튜브 검색'
+        title= {searchID}
         description='유튜브 검색 결과입니다.'
     >
         <section id='searchPage' className={searchPageClass}>

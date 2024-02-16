@@ -14,7 +14,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 
 export const headerMenus = [
     {
-        title: "웹스토리보이",
+        title: "만복이 유튜브사이트",
         icon: <CiBaseball />,
         src: "/"
     },
@@ -36,22 +36,22 @@ export const headerMenus = [
     {
         title: "웹표준 사이트",
         icon: <CiBullhorn />,
-        src: "/website"
+        src: "/search/웹표준사이트"
     },
     {
         title: "GSAP Parallax",
         icon: <CiCoffeeCup />,
-        src: "/gsap"
+        src: "/search/GSAP"
     },
     {
-        title: "포트폴리오 사이트",
+        title: "몸짱 프로젝트",
         icon: <CiDumbbell />,
-        src: "/port"
+        src: "/search/헬스"
     },
     {
-        title: "유튜브 클론 사이트",
+        title: "먹방 모음",
         icon: <CiFries />,
-        src: "/youtube"
+        src: "/search/먹방"
     },
 ];
 
@@ -105,22 +105,22 @@ export const searchKeyword = [
 export const snsLink = [
     {
         title: "github",
-        url: "https://github.com/webstoryboy",
+        url: "https://github.com/manbock",
         icon: <AiFillGithub />
     },
     {
         title: "youtube",
-        url: "https://www.youtube.com/webstoryboy",
+        url: "https://www.youtube.com/",
         icon: <AiFillYoutube />
     },
     {
         title: "codepen",
-        url: "https://codepen.io/webstoryboy",
+        url: "https://codepen.io/",
         icon: <AiOutlineCodepen />
     },
     {
         title: "instagram",
-        url: "https://www.instagram.com/webstoryboy",
+        url: "https://www.instagram.com/s00__34/",
         icon: <AiOutlineInstagram />
     },
 ]

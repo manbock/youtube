@@ -4,7 +4,7 @@ import React from 'react'
     return (
         <footer id='footer' role='contentinfo'>
             <a href='mailto:alstnekrxj34@naver.com' rel='noopenner noreferrer'>
-                alstnekrxj34@naver.com
+                만복이@naver.com
             </a>
         </footer>
     )
